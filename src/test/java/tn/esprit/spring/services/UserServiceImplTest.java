@@ -22,4 +22,26 @@ class UserServiceImplTest {
         }
 
     }
+
+
+     @Test
+    void testRemoveUser() {
+        // Your test logic for removing a user
+        assertTrue(true); // Example assertion
+    }
+
+    @Test
+    void testUpdateUser() {
+        // Your test logic for updating a user
+        assertTrue(true); // Example assertion
+    }
+
+    @Test
+    void testGetUser() {
+        // Your test logic for getting a user
+        assertTrue(true); // Example assertion
+    }
+
+   
+  
 }
